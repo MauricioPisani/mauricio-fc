@@ -1,0 +1,42 @@
+#btlogin{
+background-color:blue;
+color:white;
+font-weight:bold; 
+}
+#btlinpar{
+ background-color:red;
+ color:white;
+ font-weight:bold;
+}
+#btcad{
+background-color: chartreuse;
+color:black; 
+font-weight:bold;
+}
+nav#menu1 ul{
+list-style:none;
+text-transform:uppercase;
+position:absolute;
+top:-20px;
+left:300px;
+right: 0px;
+}
+nav#menu1 li{
+display:inline-block;
+background-color:black;
+padding:10px;
+margin:2px;  
+}
+nav#menu1 {
+display:block; 	
+} 
+nav#menu1 h1{
+display:none;	
+}
+nav#menu1 a{
+    text-decoration:none; 
+    color:white;
+    font-weight:bold;
+}
+
+    
